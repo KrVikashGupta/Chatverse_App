@@ -1,49 +1,48 @@
 # 📱 Chatverse_App
 
-A **real-time cross-platform chat application** built using **Flutter**, **Node.js**, **MongoDB Atlas**, and **Socket.IO**. Seamlessly chat with friends with secure, fast, and scalable communication.
+A **cross-platform real-time chat application** built using **Flutter**, **Node.js**, **Express**, **MongoDB Atlas**, and **Socket.IO**. Chatverse ensures secure and instant communication with a sleek user experience.
+
+![Chatverse Banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXllbWJlYXh0c2x4cXZjcTVhb3MxOHpjM2c0a3FtcHR5M2hiMnJsZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btLwXyqQKBycS3O/giphy.gif)
 
 ---
 
-## 🖼️ Demo
+## 🌟 Features
 
-![Chat App Demo](https://github.com/yourusername/Chatverse_App/assets/your-gif-id/chat_demo.gif)
-
-> 💬 Real-time chat in action with typing indicators, online user presence, and instant message delivery.
-
----
-
-## 📸 Screenshots
-
-| Login Page | Chat Screen | User List |
-|------------|-------------|-----------|
-| ![Login](https://github.com/yourusername/Chatverse_App/assets/login.png) | ![Chat](https://github.com/yourusername/Chatverse_App/assets/chat.png) | ![User List](https://github.com/yourusername/Chatverse_App/assets/userlist.png) |
-
----
-
-## 🚀 Features
-
-- ✅ **Real-Time Chat** with **Socket.IO**
-- 🔐 JWT-based secure authentication
-- 📱 Cross-platform via **Flutter**
-- ☁️ Cloud-hosted database (MongoDB Atlas)
-- 🧱 Modular REST API with Express
-- 👤 Active user tracking
-- ✍️ Typing indicators
+- 🔒 JWT-based secure authentication
+- 💬 Real-time messaging with **Socket.IO**
+- 👥 Active user tracking and typing indicators
+- ☁️ Cloud database with **MongoDB Atlas**
+- 📱 Flutter frontend for Android & iOS
+- 🔌 RESTful API using **Node.js + Express**
+- 🧾 Scalable NoSQL schema design
+- 🎯 Clean UI with responsive layouts
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tech             | Purpose                         |
-|------------------|----------------------------------|
-| **Flutter**      | Frontend UI for Android/iOS     |
-| **Node.js**      | Backend runtime                 |
-| **Express.js**   | REST API framework              |
-| **MongoDB Atlas**| Cloud database                  |
-| **Socket.IO**    | Real-time messaging             |
-| **JWT**          | Secure user sessions            |
+| Frontend | Backend | Database | Real-Time |
+|----------|---------|----------|------------|
+| Flutter  | Node.js | MongoDB Atlas | Socket.IO |
+| Dart     | Express | Mongoose | JWT |
 
 ---
 
-## 🗂️ Backend Structure
+## 📸 Screenshots
+
+> *(Replace these links with actual screenshots from your app)*
+
+![Login Screen](https://via.placeholder.com/250x500.png?text=Login+Screen)
+![Chat Screen](https://via.placeholder.com/250x500.png?text=Chat+Screen)
+
+---
+
+## 🛠️ How to Run
+
+### 📦 Backend Setup
+
+```bash
+cd backend
+npm install
+npm start
 
